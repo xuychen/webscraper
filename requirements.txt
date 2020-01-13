@@ -1,2 +1,2 @@
 pandas==0.25.*
-beautifulsoup4==4.4.0s
+beautifulsoup4==4.4.0
